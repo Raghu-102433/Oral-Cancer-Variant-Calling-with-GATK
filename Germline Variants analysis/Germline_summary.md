@@ -1,4 +1,4 @@
-# 🧬 Germline Variant Comparison Summary (SRR32583844 vs SRR32583845)
+# 🧬 Germline Variant Comparison Summary 
 
 High-impact germline variants from healthy (SRR32583844) and tumor (SRR32583845) samples were compared following GATK HaplotypeCaller and Ensembl VEP annotation.
 
