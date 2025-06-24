@@ -1,0 +1,185 @@
+variant count,gene
+318,HIGH
+40,ATXN3
+29,IL32
+6,ZFHX3
+6,VDR
+6,SLAIN1
+6,SCAPER
+6,LGALS8
+6,GPATCH4
+6,CRYBG2
+6,CES5A
+6,CEP295
+5,non_coding_transcript_exon_variant
+5,PABPC3
+5,OTOA
+5,DNAJC4
+5,CACNA1H
+4,TMEM216
+4,SYNE2
+4,HRNR
+4,FAM186A
+4,DNAJC11
+4,DENND4B
+4,CNTN5
+4,CEP170
+4,ALDH3B2
+3,TRPM1
+3,SPSB2
+3,RBFOX1
+3,PLA2G2C
+3,OR10D3
+3,NPIPB2
+3,MUC6
+3,KRT18
+3,GOLGA6L2
+3,FCRL6
+3,CCDC7
+3,CCDC32
+3,ATF6
+3,3_prime_UTR_variant
+2,ZFPM1
+2,TYW3
+2,TRIM51G
+2,TOR1AIP1
+2,SPAG6
+2,SLC22A24
+2,SLC22A10
+2,SCNM1
+2,PAX6
+2,OR6C1
+2,OR5G3
+2,OR2T7
+2,OR11G2
+2,NPIPB15
+2,NBPF8
+2,NAGPA
+2,MYO5A
+2,MGST3
+2,MESP1
+2,MDP1
+2,KRT8
+2,IGHV3-48
+2,IGHJ6
+2,FZD8
+2,FRG2B
+2,FOLR3
+2,DUSP16
+2,DNAH14
+2,CLYBL
+2,CHRFAM7A
+2,CHIT1
+2,CELA1
+2,CD34
+2,BEND7
+2,ASCC1
+2,ANHX
+2,AKR1C3
+2,AGAP5
+2,ACTN3
+1,"start_retained_variant
+      1 ZNF500
+      1 WNK1
+      1 WDR37
+      1 VRK1
+      1 VN1R5
+      1 USP48
+      1 UBR4
+      1 TTC12
+      1 TSPAN32
+      1 TSPAN14
+      1 TRAV26-2
+      1 TNNI3K
+      1 TNFRSF12A
+      1 TMEM25
+      1 TK2
+      1 TAS2R19
+      1 STUB1
+      1 SNCG
+      1 SLC3A2
+      1 SIX1
+      1 SH2D7
+      1 SFTPA2
+      1 SEMA4B
+      1 PXMP2
+      1 PTCHD3
+      1 PSMA4
+      1 PRAMEF33
+      1 PRAMEF2
+      1 PRAMEF10
+      1 PNLIPRP2
+      1 PLA2G4D
+      1 PKD1L3
+      1 PITRM1
+      1 PER3
+      1 PATL2
+      1 PATE4
+      1 OR9H1P
+      1 OR8K1
+      1 OR5M1
+      1 OR5AR1
+      1 OR52N4
+      1 OR52E8
+      1 OR52D1
+      1 OR51Q1
+      1 OR51I1
+      1 OR4X1
+      1 OR4Q2
+      1 OR4L1
+      1 OR4C45
+      1 OR2T35
+      1 OR2T12
+      1 OR2L8
+      1 OR1S1
+      1 OR11H7
+      1 OR10X1
+      1 OR10J4
+      1 OAS2
+      1 NPW
+      1 NPHP4
+      1 NBPF10
+      1 MT1G
+      1 MRE11
+      1 MORN4
+      1 MLYCD
+      1 MIR7155
+      1 METRN
+      1 KIAA0586
+      1 IVD
+      1 IRF2BPL
+      1 IGHV1-2
+      1 IFI44
+      1 HEPHL1
+      1 HELB
+      1 HAPLN3
+      1 GPR33
+      1 GALNT9
+      1 FMO2
+      1 FCGR2C
+      1 EXOC3L4
+      1 DDX11
+      1 CYP2C8
+      1 CXCL12
+      1 CNOT1
+      1 CLCA4
+      1 CHST15
+      1 CHIA
+      1 CDH23
+      1 CDCP2
+      1 CD163L1
+      1 CCDC198
+      1 C2CD3
+      1 BMP4
+      1 BEGAIN
+      1 BAIAP3
+      1 AVPI1
+      1 ARMS2
+      1 ARHGAP9
+      1 ARAP1
+      1 AGL
+      1 AGBL1
+      1 ACSM2B
+      1 AAMDC
+      1 5_prime_UTR_variant
+"

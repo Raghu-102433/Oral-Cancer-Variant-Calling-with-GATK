@@ -1,0 +1,5 @@
+﻿file_name,sample_id,read,group
+SRR32583844_1_fastq,SRR32583844,1,Healthy
+SRR32583844_2_fastq,SRR32583844,2,Healthy
+SRR32583845_1_fastq,SRR32583845,1,Tumour
+SRR32583845_2_fastq,SRR32583845,2,Tumour
