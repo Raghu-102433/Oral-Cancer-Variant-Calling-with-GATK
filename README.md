@@ -9,7 +9,7 @@ SRR32583844 — Healthy (normal/control)
 SRR32583845 — Tumour (oral squamous cell carcinoma)
 
 ⚙️ Getting Started
-
+```bash
 Step 1: Create Conda Environment
 
 conda env create -f environment.yml
@@ -21,6 +21,7 @@ Step 2: Run Pipelines
 bash germline_variantcalling_pipeline.sh
 
 bash somatic_variantcalling_pipeline.sh
+```
 
 📊 Summary
 
